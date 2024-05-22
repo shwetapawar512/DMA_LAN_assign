@@ -7,7 +7,7 @@ void main()
 	int **a;
 	int r,c,j,i;
 
-	printf("Enter no of rows and rows:\n");
+	printf("Enter no of rows and columns:\n");
 	scanf("%d %d",&r,&c);
 
 	if(r!=c)
